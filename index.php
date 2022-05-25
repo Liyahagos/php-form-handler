@@ -7,6 +7,6 @@
     <?php
     echo '<p>This is PHP!</p>';
     ?>
-  
+    <p> hello from GitHub</p>
   </body>
 </html>
